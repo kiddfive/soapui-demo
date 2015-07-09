@@ -29,7 +29,7 @@
   <version>5.1.2-m-SNAPSHOT</version>
   <configuration>
     <!--soapUI project file location-->
-    <projectFile>soapui-map-groovy assertion.xml</projectFile>
+    <projectFile>text-soapui-project.xml</projectFile>
     <!--output file location-->
     <outputFolder>${project.basedir}/output/</outputFolder>
     <!--junit results file-->
